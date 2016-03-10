@@ -1,0 +1,10 @@
+ body {
+	text-align: center;
+	background-color: black;
+	font-family: Noto Sans;
+	color: blue;
+}
+#button {
+	width: 25;
+	height: 25;
+}

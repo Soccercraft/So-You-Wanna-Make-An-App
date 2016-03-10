@@ -1,0 +1,33 @@
+.g {
+color: rgb(51,105,232); 	
+}
+.red {
+color: rgb(213,15,37); 
+}
+.green {
+color: rgb(0,153,57)
+}
+.yellow {
+color: rgb(238,178,17); 
+}
+.google {
+	padding-top: 200px;
+	text-align: center;
+	font-family: Roboto;	 
+}
+h1{
+display:inline;
+}
+form{
+	text-align: center;
+	line-height: 675px;
+}
+.google{
+	font-size: 50px
+}
+.mail{
+	text-align: right;
+}
+body{
+	font-family: Futura;
+}
